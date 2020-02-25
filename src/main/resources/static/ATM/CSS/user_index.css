@@ -1,0 +1,66 @@
+.clearfix::after{
+    content: "";
+    display:block;
+    clear:both;
+}
+.main .container{
+
+    padding: 0 200px;
+    padding: 20px;
+    width:400px;
+    float:left;
+}
+
+.main .container h1{
+    padding: 15px;
+    border: 1px solid red;
+    margin: 20px 15px;
+    border-radius: 15%;
+    text-align: center;
+    line-height: 1;
+    font-size: 2em;
+    margin-bottom: 15px;
+
+}
+.main .container .l1{
+     width:180px;  
+     height:35px;
+     margin-left: 200px; 
+}
+.main .container .l2{
+    width:180px;  
+     height:35px;
+     margin-left: 200px;  
+}
+.main .container .l3{
+    width:180px;  
+     height:35px;   
+     margin-left: 200px; 
+}
+.main .container .l4{
+    width:180px;  
+     height:35px;  
+     margin-left: 200px;  
+}
+.main .container .l5{
+    width:180px;  
+     height:35px;   
+     margin-left: 200px; 
+}
+.main .container .l6{
+    width:180px;  
+     height:35px;   
+     margin-left: 200px;  
+}
+.main .container .l7{
+    width:180px;  
+     height:35px;  
+     margin-left: 200px; 
+}
+.function-borad{
+    float: left;
+    padding: 80px;
+    height: 450px;
+    width:500px;
+    margin: 20px;
+}

@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/application.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/changePasskey.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/gover_login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/index.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/login.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/registe.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/transfer.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/jsp/user_login.jsp=UTF-8
+encoding//src/test/java=UTF-8
+encoding//src/test/resources=UTF-8
+encoding/<project>=UTF-8
